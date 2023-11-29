@@ -3,7 +3,7 @@
         <title>Application</title>
     </head>
     <body>
-        <h1>Application Form</h1>
+        <h1><u>Application Form</u></h1>
         <form class="" action="" method="post">
             <label>First Name:</label>
             <input type="text" name="value">
