@@ -41,7 +41,6 @@
             <input type="text" name="value"><br><br>
             <input type="submit" name="save">
             <input type="reset" name="reset">
-           
-        </form>
+             </form>
     </body>
     </html>
